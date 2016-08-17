@@ -1,0 +1,42 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;\red255\green255\blue255;\red83\green83\blue83;
+}
+{\*\listtable{\list\listtemplateid1\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{none\}}{\leveltext\leveltemplateid1\'00;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid1}
+{\list\listtemplateid2\listhybrid{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{decimal\}.}{\leveltext\leveltemplateid101\'02\'00.;}{\levelnumbers\'01;}\fi-360\li720\lin720 }{\listname ;}\listid2}
+{\list\listtemplateid3\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{none\}}{\leveltext\leveltemplateid201\'00;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid3}}
+{\*\listoverridetable{\listoverride\listid1\listoverridecount0\ls1}{\listoverride\listid2\listoverridecount0\ls2}{\listoverride\listid3\listoverridecount0\ls3}}
+\paperw11900\paperh16840\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural\partightenfactor0
+
+\f0\fs26 \cf2 Ingredients:\
+\pard\tx220\tx720\pardeftab720\li720\fi-720\sl448\sa320\partightenfactor0
+\ls1\ilvl0\cf2 \cb3 		- \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec4 Coarse salt\cb1 \
+\ls1\ilvl0\cb3 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 		- \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec4 12 ounces spaghetti\
+\ls1\ilvl0\cb1 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 		- \cb3 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec4 3/4 cup extra-virgin olive oil, plus more for drizzling\
+\ls1\ilvl0\cb1 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 		- \cb3 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec4 8 cloves garlic\
+\ls1\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 		- \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec4 4 thinly sliced and 4 minced\cb1 \
+\ls1\ilvl0\cb3 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 		- \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec4 1 lemon, zested and juiced\cb1 \
+\ls1\ilvl0\cb3 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 		- \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec4 1 1/4 cups packed fresh flat-leaf parsley leaves\cb1 \
+\ls1\ilvl0\cb3 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 		- \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec4 Parmesan cheese, grated, for serving\
+\pard\tx566\pardeftab720\sl448\sa320\partightenfactor0
+\cf2 \cb1 Directions:\
+\pard\tx220\tx720\pardeftab720\li720\fi-720\sl448\partightenfactor0
+\ls2\ilvl0\cf2 \cb3 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	1.	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec4 Bring a large pot of generously salted water to a boil. Cook pasta until very al dente. Reserve 2 cups pasta water; drain pasta.\cb1 \uc0\u8232 \
+\ls2\ilvl0\cb3 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	2.	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec4 Heat a large straight-sided skillet over medium heat. Add oil and garlic slices and cook until slices are lightly golden, about 2 minutes; transfer to a paper towel to drain. Add minced garlic to skillet and cook until fragrant and just beginning to color (do not let turn golden), about 30 seconds. Whisk in pasta water and simmer 2 minutes. Add pasta and cook until liquid is reduced, about 1 minute. Remove from heat, add lemon zest and juice, and stir to combine. Stir in parsley, drizzle with oil, and top with garlic slices. Serve with cheese.\cb1 \uc0\u8232 \
+\pard\tx566\pardeftab720\sl448\sa320\partightenfactor0
+\cf2 \
+\pard\tx220\tx720\pardeftab720\li720\fi-720\sl448\sa320\partightenfactor0
+\ls3\ilvl0\cf2 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 		\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec4 \
+}
